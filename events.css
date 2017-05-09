@@ -21,3 +21,6 @@
 		 font-weight: bold;
 		 font-style: italic;
 }
+button{
+	display: block;
+}

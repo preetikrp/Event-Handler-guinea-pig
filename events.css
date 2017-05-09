@@ -1,0 +1,23 @@
+.blue{
+	color: blue;
+}
+
+.large {
+	font-size: 3em;
+}
+.border{
+	border: 2.5px solid red;
+}
+.round{
+	border-radius: 10px;
+	border: 2.5px solid black;
+
+}
+
+#firstId{
+ font-weight: bold;
+}
+#lastId{
+		 font-weight: bold;
+		 font-style: italic;
+}
